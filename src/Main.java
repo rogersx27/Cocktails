@@ -4,7 +4,7 @@ import classes.childrens.JuiceCocktail;
 public class Main {
 
     public static void main(String[] args) {
-        // Creating instances of JuiceCocktail and AlcoholShot
+        // Crea instancias de JuiceCocktail y AlcoholShot
         JuiceCocktail mojito = new JuiceCocktail(
                 "Mojito",
                 7.5,
